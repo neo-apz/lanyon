@@ -26,10 +26,10 @@ NoSQL systems as the backbone of its big data computations.
 ## Current Research
 
 My current research is a joint research project with the University of Toronto.
-It's about a scheme, named *BigKernel*, that provides pseudo-virtual memory
+It's about a scheme, named ***BigKernel***, that provides pseudo-virtual memory
 to GPU applications and is implemented using a 4-stage pipeline
 with automated prefetching to
-*(I)* optimize CPU-GPU communication and
+**(I)** optimize CPU-GPU communication and
 *(II)* optimize GPU memory accesses.
 It's based on a proposed compile-time system that takes a BigData application
 as input and modifies it to automate the CPU-GPU data communications and
@@ -47,5 +47,7 @@ This is officially supported by the writers and I’m doing this with
 Dr. Ahmad Towhidi and Nima Towhidi.
 I’m really excited about this.
 You can find more information about it [here](http://www.saasbook.info/translations/ir).
+
+You can access my résumé from the sidebar.
 
 Thanks for stopping by!
