@@ -5,8 +5,8 @@ title: About
 
 ## Hello World!
 
-Welcome to my personal web-page.
-My name is *Arash* and I was born in [*Kerman*](https://en.wikipedia.org/wiki/Kerman),
+My name is [*Arash*](https://en.wikipedia.org/wiki/Arash) (Persian: آرش)
+and I was born in [*Kerman*](https://en.wikipedia.org/wiki/Kerman),
 a historical and cultural city located in South-East of [*Iran*](https://en.wikipedia.org/wiki/Iran).
 I am a M.Sc. student in Software Engineering at the
 Department of CSE and IT of [*Shiraz University*](http://en.wikipedia.org/wiki/Shiraz_University),
@@ -29,7 +29,7 @@ My current research is a joint research project with the University of Toronto.
 It's about a scheme, named ***BigKernel***, that provides pseudo-virtual memory
 to GPU applications and is implemented using a 4-stage pipeline
 with automated prefetching to
-**(I)** optimize CPU-GPU communication and
+*(I)* optimize CPU-GPU communication and
 *(II)* optimize GPU memory accesses.
 It's based on a proposed compile-time system that takes a BigData application
 as input and modifies it to automate the CPU-GPU data communications and
