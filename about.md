@@ -9,6 +9,7 @@ icon: flaticon-user7
 My name is [*Arash*](https://en.wikipedia.org/wiki/Arash) (Persian: آرش)
 and I was born in [*Kerman*](https://en.wikipedia.org/wiki/Kerman),
 a historical and cultural city located in South-East of [*Iran*](https://en.wikipedia.org/wiki/Iran).
+My Nickname is NEO.
 I am a M.Sc. student in Software Engineering at the
 Department of CSE and IT of [*Shiraz University*](http://en.wikipedia.org/wiki/Shiraz_University),
 where I also received my B.Sc. in Software Engineering.

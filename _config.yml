@@ -20,8 +20,13 @@ paginate:            5
 # About/contact
 author:
   name:              Arash Pourhabibi-Zarandi
-  url:               https://twitter.com/ArashPourhabibi
+  url:               http://arash.pourhabibi.info
   email:             arash.p.z@gmail.com
+  twitter:           ArashPourhabibi
+  facebook:          arash.p.zarandi
+  googleplus:           ArashPourhabibiZarandi
+  github:            neo-apz
+  linkedin:          arashpourhabibizarandi
 
 # Custom vars
 version:             1.0.0
