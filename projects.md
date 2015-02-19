@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+icon: flaticon-briefcase69
 ---
 
 ## Workflow Management System (Fall 2012)

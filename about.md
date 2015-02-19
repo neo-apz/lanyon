@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+icon: flaticon-user7
 ---
 
 ## Hello World!
