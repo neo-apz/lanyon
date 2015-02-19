@@ -34,3 +34,7 @@ version:             1.0.0
 gems:
   - jemoji
   - jekyll-sitemap
+
+collections:
+  projects:
+    output: true

@@ -1,0 +1,11 @@
+---
+layout:     project
+title:      MiniOS
+date:       Fall 2010
+code:
+doc:
+demo:
+best:       false
+---
+
+For this project we had to write a small OS that performs 3 or 4 small tasks and is bootable. It’s a small text based OS that can perform these jobs: Changing the color of the written text, clearing the screen, restarting itself and Outputting a help and about text. It’s written in 80x86 Assembly Language.

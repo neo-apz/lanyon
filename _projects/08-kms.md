@@ -1,0 +1,10 @@
+---
+layout:     project
+title:      Designing a Knowledge Management System
+date:       Winter-Spring 2012
+code:
+doc:        DOC_KMS.zip
+best:       true
+---
+
+In this project our goal was to build a knowledge management system for University to help the professors track their students' researches; however it can be used for general purpose projects. The registered users identified by three kinds of roles, Consumer, Collaborator or Manger where each has it’s own permissions and capabilities. The consumer can only view the uploaded documents but the collaborator (student) can edit or create new documents while the manager is the person who monitors and defines the tasks. The whole system was designed in UML which contains Use Case Diagram with it’s specifications, Activity and Sequence Diagrams, ERD, FHD and CRUD Matrix of the system.  The project was marked as the best project of the “Software Engineering I” class.
