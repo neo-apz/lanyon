@@ -1,0 +1,11 @@
+---
+layout:     project
+title:      SAHA - iPhone Application for Phone Bill Management
+date:       February 2012
+code:
+doc:        DOC_Saha.pdf
+demo:       PRSNT_Saha.zip
+best:       false
+---
+
+SAHA (ساها : سامانه الکترونیکی همراه اول) is an iPhone application designed for the largest Telecommunication Company in Iran, Hamrah-e-Avval (همراه اول). In this version my goal was to make the payment process of phone bills easier. In addition, the users can view their call history and the cost of each call and other detailed costs in their bills. The payment can be done via bank gateways. This application was nominated for the Best Mobile Application at the First Iran Mobile Innovation Awards held by Sharif University of Technology at Tehran in February 2012.

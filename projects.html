@@ -1,0 +1,23 @@
+---
+layout: page
+title: Projects
+icon: flaticon-briefcase69
+---
+
+<div class="posts">
+  {% for project in site.projects reversed %}
+  <div class="post">
+    <h2 class="post-title">
+      <a href="{{ project.url }}">
+        {{ project.title }}
+      </a>
+    </h2>
+
+    <span class="post-date">{{ project.date }}
+        {% if project.best == true %}
+            <i class="flaticon-award52"></i>
+        {% endif %}
+    </span>
+  </div>
+  {% endfor %}
+</div>
