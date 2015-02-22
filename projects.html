@@ -4,7 +4,9 @@ title: Projects
 icon: flaticon-briefcase69
 ---
 
-<img src="{{ site.url }}/files/i_love_programming.jpg"></img>
+<!-- img src="{{ site.url }}/files/i_love_programming.jpg"></img -->
+
+<p> For more information about each project, click on its title. </p>
 
 <div class="posts">
   {% for project in site.projects reversed %}
@@ -19,6 +21,7 @@ icon: flaticon-briefcase69
         {% if project.best == true %}
             <i class="flaticon-award52"></i>
         {% endif %}
+        {{ project.excerpt}}
     </span>
   </div>
   {% endfor %}

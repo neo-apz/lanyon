@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lost Symbol
+comments: true
 ---
 
 Finally finished it.![alt text]({{ site.url }}/files/posts_files/LostSymbol.jpg "The Lost Symbol's Cover")
