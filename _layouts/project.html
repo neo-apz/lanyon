@@ -10,11 +10,17 @@ layout: default
       {% endif %}
   </span>
 
-  {{ content }}
+  <div class="project_content">
+      {{ content }}
+  </div>
 
   <ul>
       {% if page.code != null %}
         <li><a href="{{ site.url }}/files/projects_files/{{ page.code}}"> <i class="flaticon-code27"></i> Source Code </a></li>
+      {% endif %}
+
+      {% if page.repo != null %}
+        <li><a href="https://github.com/{{ site.author.github }}/{{ page.repo }}"> <i class="flaticon-code27"></i> Source Code on GitHub </a></li>
       {% endif %}
 
       {% if page.doc != null %}
