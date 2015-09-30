@@ -10,7 +10,11 @@ My name is [*Arash*](https://en.wikipedia.org/wiki/Arash) (Persian: آرش)
 and I was born in [*Kerman*](https://en.wikipedia.org/wiki/Kerman),
 a historical and cultural city located in South-East of [*Iran*](https://en.wikipedia.org/wiki/Iran).
 My Nickname is NEO.
-I am a M.Sc. student in Software Engineering at the
+I am a PhD student at [*School of Computer and Communication Sciences*](http://ic.epfl.ch/),
+[*EPFL*](http://www.epfl.ch/).
+I am a doctoral research assistant at [*PARSA lab*](http://parsa.epfl.ch)
+under supervision of [Prof. Babak Falsafi](http://parsa.epfl.ch/~falsafi/).
+I did my master's in Software Engineering at the
 Department of CSE and IT of [*Shiraz University*](http://en.wikipedia.org/wiki/Shiraz_University),
 where I also received my B.Sc. in Software Engineering.
 
@@ -25,9 +29,9 @@ The usage of new multicore CPUs and modern GPUs as the infrastructure of cloud
 and distributed computing and
 NoSQL systems as the backbone of its big data computations.
 
-## Current Research
+## Past Research
 
-My current research is a joint research project with the University of Toronto.
+My previous research project was a joint research project with the University of Toronto.
 It's about a scheme, named ***BigKernel***, that provides pseudo-virtual memory
 to GPU applications and is implemented using a 4-stage pipeline
 with automated prefetching to
@@ -36,7 +40,7 @@ with automated prefetching to
 It's based on a proposed compile-time system that takes a BigData application
 as input and modifies it to automate the CPU-GPU data communications and
 improve the overall performance of the application.
-We are developing the compiler tool using the [LLVM](http://llvm.org/) infrastructure.
+We've developed the compiler tool using the [LLVM](http://llvm.org/) infrastructure.
 
 ## What I am proud to be a part of
 
