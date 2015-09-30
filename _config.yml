@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Arash Pourhabibi-Zarandi
-tagline:             'A Software Engineer Who Loves His Job.'
+tagline:             'A Computer Engineer Who Loves His Job.'
 #description:         There are only 10 types of people in the world. Those who undertand binary and those who don't, and those who count from zero.
 description:
 url:                 http://127.0.0.1:4000
@@ -21,7 +21,7 @@ paginate:            5
 author:
   name:              Arash Pourhabibi-Zarandi
   url:               http://arash.pourhabibi.info
-  email:             arash.p.z@gmail.com
+  email:             arash.pourhabibi@epfl.ch
   twitter:           ArashPourhabibi
   facebook:          arash.p.zarandi
   googleplus:           ArashPourhabibiZarandi
