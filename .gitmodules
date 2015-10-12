@@ -1,0 +1,3 @@
+[submodule "cv"]
+	path = cv
+	url = git@bitbucket.org:neo-apz/cv.git
