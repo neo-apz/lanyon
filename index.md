@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 icon: flaticon-user7
 ---
@@ -54,6 +54,6 @@ Dr. Ahmad Towhidi and Nima Towhidi.
 I’m really excited about this.
 You can find more information about it [here](http://www.saasbook.info/translations/ir).
 
-You can access my résumé from the sidebar.
+You can access my CV from the sidebar.
 
 Thanks for stopping by!

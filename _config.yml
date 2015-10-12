@@ -16,6 +16,7 @@ description:
 url:                 http://127.0.0.1:4000
 baseurl:             /
 paginate:            5
+paginate_path: "/blog/page:num"
 
 # About/contact
 author:
