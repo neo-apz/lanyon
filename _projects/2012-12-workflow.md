@@ -1,7 +1,8 @@
 ---
 layout:     project
 title:      Workflow Management System
-date:       Fall 2012
+date:       2012-12-01
+date-str:       Fall 2012
 code:  
 doc:
 demo:

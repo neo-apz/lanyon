@@ -1,7 +1,8 @@
 ---
 layout:     project
 title:      Steganography
-date:       Winter-Spring 2010
+date:       2010-05-01
+date-str:   Winter-Spring 2010
 code:       SRC_Steganography.zip
 doc:        DOC_Steganography.pdf
 demo:

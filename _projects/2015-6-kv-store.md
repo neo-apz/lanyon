@@ -1,7 +1,8 @@
 ---
 layout:     project
 title:      Building a Fault-Tolerant Key-Value Store
-date:       Spring 2015
+date:       2015-06-01
+date-str:       Spring 2015
 code:
 repo:       MembershipProtocol
 doc:

@@ -1,7 +1,8 @@
 ---
 layout:     project
 title:      CloudSuite
-date:       2015-2016
+date:       2018-12-01
+date-str:       Current
 code:
 repo:       
 doc:
