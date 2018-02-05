@@ -1,6 +1,8 @@
 # Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+markdown:            kramdown
+highlighter:         rouge
+kramdown:
+  input: GFM
 
 # Permalinks
 #
@@ -11,9 +13,8 @@ permalink:           pretty
 # Setup
 title:               Arash Pourhabibi-Zarandi
 tagline:             'A Computer Engineer Who Loves His Job.'
-#description:         There are only 10 types of people in the world. Those who undertand binary and those who don't, and those who count from zero.
 description:
-url:                 http://arash.pourhabibi.info
+url:                 http://arash.pourhabibi.info/
 baseurl:             /
 paginate:            5
 paginate_path: "/blog/page:num"
@@ -35,6 +36,8 @@ version:             1.0.0
 gems:
   - jemoji
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
 
 collections:
   projects:
