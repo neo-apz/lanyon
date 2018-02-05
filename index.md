@@ -10,7 +10,7 @@ My name is [*Arash*](https://en.wikipedia.org/wiki/Arash) (Persian: آرش)
 and I was born in [*Kerman*](https://en.wikipedia.org/wiki/Kerman),
 a historical and cultural city located in South-East of [*Iran*](https://en.wikipedia.org/wiki/Iran).
 My Nickname is NEO.
-I am a PhD student at [*School of Computer and Communication Sciences*](http://ic.epfl.ch/),
+I am a PhD candidate at [*School of Computer and Communication Sciences*](http://ic.epfl.ch/),
 [*EPFL*](http://www.epfl.ch/).
 I am a doctoral research assistant at [*PARSA lab*](http://parsa.epfl.ch)
 under supervision of [Prof. Babak Falsafi](http://parsa.epfl.ch/~falsafi/).
@@ -20,27 +20,13 @@ where I also received my B.Sc. in Software Engineering.
 
 ## Research Interest
 
-My research interest relies on distributed systems or cloud computing
-and its abstraction levels from top to bottom;
-how to efficiently build a Software as a Service (SaaS) and
-deploy it on a cloud provided platform (PaaS)
-which is running on a virtualized machine (IaaS).
-The usage of new multicore CPUs and modern GPUs as the infrastructure of cloud
-and distributed computing and
-NoSQL systems as the backbone of its big data computations.
-
-## Past Research
-
-My previous research project was a joint research project with the University of Toronto.
-It's about a scheme, named ***BigKernel***, that provides pseudo-virtual memory
-to GPU applications and is implemented using a 4-stage pipeline
-with automated prefetching to
-*(I)* optimize CPU-GPU communication and
-*(II)* optimize GPU memory accesses.
-It's based on a proposed compile-time system that takes a BigData application
-as input and modifies it to automate the CPU-GPU data communications and
-improve the overall performance of the application.
-We've developed the compiler tool using the [LLVM](http://llvm.org/) infrastructure.
+I am broadly interested in the field of systems and
+interdisciplinary systems problems found in modern, large-scale datacenters.
+My current research revolves around efficiency and sustainability enhancement of
+server systems for datacenters.
+By characterizing modern server workloads and employing emerging memory subsystems,
+I look for minimizing the energy footprint and maximizing the compute density of server systems
+through specialization of various system components, and better system integration.
 
 ## What I am proud to be a part of
 
@@ -49,9 +35,7 @@ Another thing I have been recently up to is translating
 [Armando Fox](http://www.eecs.berkeley.edu/Faculty/Homepages/fox.html)
 and [David Patterson](http://www.eecs.berkeley.edu/Faculty/Homepages/patterson.html)
 into Persian.
-This is officially supported by the writers and I’m doing this with
-Dr. Ahmad Towhidi and Nima Towhidi.
-I’m really excited about this.
+This is officially supported by the writers and I’m really excited about this.
 You can find more information about it [here](http://www.saasbook.info/translations/ir).
 
 You can access my CV from the sidebar.
