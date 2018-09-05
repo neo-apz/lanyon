@@ -8,9 +8,9 @@ icon: flaticon-user7
 
 My name is [*Arash*](https://en.wikipedia.org/wiki/Arash) (Persian: آرش)
 (aka NEO), and I am from [*Iran*](https://en.wikipedia.org/wiki/Iran).
-I am a PhD candidate at [*School of Computer and Communication Sciences*](http://ic.epfl.ch/),
+I am a PhD candidate at the [*School of Computer and Communication Sciences*](http://ic.epfl.ch/),
 [*EPFL*](http://www.epfl.ch/),
-and a doctoral research assistant at [*PARSA lab*](http://parsa.epfl.ch)
+and a doctoral research assistant at [*PARSA*](http://parsa.epfl.ch)
 under supervision of [Prof. Babak Falsafi](http://parsa.epfl.ch/~falsafi/).
 I did my master's in Software Engineering at the
 Department of CSE and IT of [*Shiraz University*](http://en.wikipedia.org/wiki/Shiraz_University),
